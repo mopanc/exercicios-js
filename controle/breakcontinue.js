@@ -20,3 +20,4 @@ externo: for (a in nums) {
         console.log(`par = ${a},${b}`)
     }
 }
+//console.log
